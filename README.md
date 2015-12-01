@@ -133,15 +133,15 @@ Catalog
 126 |                  |           |                   |        |          |      |              |
 127 |                  |           |                   |        |          |      |              |
 128 |                  |           |                   |        |          |      |              |
-129 |                  |           |                   |        |          |      |              |
+129 | |           |                   |        |          |      |              |
 130 |                  |           |                   |        |          |      |              |
 131 |                  |           |                   |        |          |      |              |
 132 |                  |           |                   |        |          |      |              |
 133 |                  |           |                   |        |          |      |              |
 134 |                  |           |                   |        |          |      |              |
 135 |                  |           |                   |        |          |      |              |
-136 |                  |           |                   |        |          |      |              |
-137 |                  |           |                   |        |          |      |              |
+136 |   [Single Number](https://leetcode.com/problems/single-number/)               |Medium           | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode136.cpp) [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode136v2.cpp)                  |  60ms,20ms      |Hash Table, Bit          |      |              |
+137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) |Medium           | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode137.cpp)  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode137v2.cpp)                 |32ms,12ms        |   Bit       |      |              |
 138 |                  |           |                   |        |          |      |              |
 139 |                  |           |                   |        |          |      |              |
 140 |                  |           |                   |        |          |      |              |
