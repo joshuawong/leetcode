@@ -204,3 +204,9 @@ Catalog
 197 |                  |           |                   |        |          |      |              |
 198 |                  |           |                   |        |          |      |              |
 199 |                  |           |                   |        |          |      |              |
+202 |   [Happy Number](https://leetcode.com/problems/happy-number/)               |  Easy         |    [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode202.cpp)               | 4ms       |    Hash Table, Math      |      |              |
+203 |  [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)      |   Easy        |[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode203.cpp)                   |     32ms   |  Linked List        |      |              |
+204 |   [Count Primes](https://leetcode.com/problems/count-primes/)    |       Easy    | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode204.cpp) [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode204v2.cpp)                  |   392ms, 216ms     |   Hash Table, Math       |      |              |
+205 |  [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)    |           Easy|   [Python](https://github.com/joshuawong/leetcode/blob/master/leetcode205.py)                |   76ms     |Hash Table          |      |              |
+206 |    [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)   |      Easy     | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode206.cpp)                  |    8ms    |Linked List          |      |              |
+215 |                  |           |                   |        |          |      |              |
