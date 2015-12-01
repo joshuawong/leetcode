@@ -129,7 +129,7 @@ Catalog
 122 | [Best Time to Buy and Sell Stock II]() |  https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/         |  Medium                 | https://github.com/joshuawong/leetcode/blob/master/leetcode123.cpp       |  8ms        | Array, Greedy     |              |
 123 |                  |           |                   |        |          |      |              |
 124 |                  |           |                   |        |          |      |              |
-125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| Easy          |  https://github.com/joshuawong/leetcode/blob/master/leetcode125.cpp                 | 16ms       |   Two pointer, String       |      |              |
+125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| Easy          |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode125.cpp)                 | 16ms       |   Two pointer, String       |      |              |
 126 |                  |           |                   |        |          |      |              |
 127 |                  |           |                   |        |          |      |              |
 128 |                  |           |                   |        |          |      |              |
