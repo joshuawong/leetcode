@@ -108,14 +108,14 @@ Catalog
 101 |  [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                | Easy | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode101.cpp)                  |  4ms      |DFS,Tree           |      |              |
 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                 |            Easy|   [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode102.cpp)               |  8ms      | BFS,Tree             |      |              |
 103 |                  |           |                   |        |          |      |              |
-104 |                  |           |                   |        |          |      |              |
+104 |  [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                | Easy         |                   | 8ms       | DFS,Tree           |      |              |
 105 |                  |           |                   |        |          |      |              |
 106 |                  |           |                   |        |          |      |              |
 107 |                  |           |                   |        |          |      |              |
 108 |                  |           |                   |        |          |      |              |
 109 |                  |           |                   |        |          |      |              |
-110 |                  |           |                   |        |          |      |              |
-111 |                  |           |                   |        |          |      |              |
+110 |  [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                | Easy          | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode110.cpp)                  |16ms        |  DFS,Tree          |      |              |
+111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy          |[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode111.cpp) [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode111v2.cpp)                   | 20ms,12ms       |  DFS,BFS,Tree        |      |              |
 112 |                  |           |                   |        |          |      |              |
 113 |                  |           |                   |        |          |      |              |
 114 |                  |           |                   |        |          |      |              |
