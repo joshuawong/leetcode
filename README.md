@@ -120,7 +120,7 @@ Catalog
 113 |                  |           |                   |        |          |      |              |
 114 |                  |           |                   |        |          |      |              |
 115 |                  |           |                   |        |          |      |              |
-116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|           | Medium|        |[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode116.cpp)          |  24ms    |  DFS,Tree               |
+116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|            Medium|        [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode116.cpp)          |  24ms    |  DFS,Tree               |
 117 |                  |           |                   |        |          |      |              |
 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| Easy          | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode118.cpp) [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode118v2.cpp)                  | 4ms,0ms       |  Array        |      |              |
 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| Easy  |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode119.cpp)                 |   0ms     |Array          |      |              |
