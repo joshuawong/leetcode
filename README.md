@@ -159,21 +159,21 @@ Catalog
 152 |                  |           |                   |        |          |      |              |
 153 |                  |           |                   |        |          |      |              |
 154 |                  |           |                   |        |          |      |              |
-155 |                  |           |                   |        |          |      |              |
+155 |  [Min Stack](https://leetcode.com/problems/min-stack/)  |     Easy      | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode155.cpp)                  | 28ms       |  Stack        |      |              |
 156 |                  |           |                   |        |          |      |              |
 157 |                  |           |                   |        |          |      |              |
 158 |                  |           |                   |        |          |      |              |
 159 |                  |           |                   |        |          |      |              |
-160 |                  |           |                   |        |          |      |              |
+160 |  [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)  |  Easy         |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode160.cpp)                 | 52ms       |   Linked List       |      |              |
 161 |                  |           |                   |        |          |      |              |
-162 |                  |           |                   |        |          |      |              |
+162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Medium          | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode162.cpp)   [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode162v2.cpp)                |  8ms, 8ms      |Array, Binary Search          |      |              |
 163 |                  |           |                   |        |          |      |              |
 164 |                  |           |                   |        |          |      |              |
-165 |                  |           |                   |        |          |      |              |
+165 |   [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)     |   Easy        | [Java](https://github.com/joshuawong/leetcode/blob/master/leetcode165.java)    |    4ms    |  String        |      |              |
 166 |                  |           |                   |        |          |      |              |
 167 |                  |           |                   |        |          |      |              |
-168 |                  |           |                   |        |          |      |              |
-169 |                  |           |                   |        |          |      |              |
+168 |  [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)                |  Easy   | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode168.cpp)                  |    0ms    |  Math        |      |              |
+169 | [Majority Element](https://leetcode.com/problems/majority-element/)  |           | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode169.cpp)               [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode169v2.cpp) [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode169v3.cpp)   | 24ms,20ms,20ms       |   Divide&Conquer, Bit, Array       |      |              |
 170 |                  |           |                   |        |          |      |              |
 171 |                  |           |                   |        |          |      |              |
 172 |                  |           |                   |        |          |      |              |
