@@ -45,7 +45,7 @@ Catalog
 38  | [Count and Say](https://leetcode.com/problems/count-and-say/)|  Easy     |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode38.cpp)      |   8ms     |String          |      |              |
 39  | [Combination Sum]()  |      Medium     |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode39.cpp)                 |    144ms    |Array, Backtracking          |      |              |
 40  |  [Combination Sum II]()      |    Medium       | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode40.cpp)          |      424ms             |  Array, Backtracking         |          |      |              |
-41  |                  |           |                   |        |          |      |              |
+41  |    [Rotate Image](https://leetcode.com/problems/rotate-image/)              |   Medium        |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode48.cpp)          |   4ms     |   Array       |      |              |
 42  |                  |           |                   |        |          |      |              |
 43  |                  |           |                   |        |          |      |              |
 44  |                  |           |                   |        |          |      |              |
@@ -70,8 +70,8 @@ Catalog
 63  |                  |           |                   |        |          |      |              |
 64  |                  |           |                   |        |          |      |              |
 65  |                  |           |                   |        |          |      |              |
-66  |                  |           |                   |        |          |      |              |
-67  |                  |           |                   |        |          |      |              |
+66  |   [Plus One](https://leetcode.com/problems/plus-one/)|  Easy   | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode66.cpp)       |  4ms        |Array,Math      |              |
+67  |  [Add Binary](https://leetcode.com/problems/add-binary/)                |   Easy        |    [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode67.cpp)               | 4ms       | Math, String         |      |              |
 68  |                  |           |                   |        |          |      |              |
 69  |                  |           |                   |        |          |      |              |
 70  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy          |   [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode70.cpp)                | 0ms       |  DP        |      |              |
