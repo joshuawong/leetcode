@@ -58,12 +58,12 @@ Catalog
 51  |                  |           |                   |        |          |      |              |
 52  |                  |           |                   |        |          |      |              |
 53  |                  |           |                   |        |          |      |              |
-54  |                  |           |                   |        |          |      |              |
+54  |  [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)  |   Medium        | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode54.cpp)                  |    0ms    |Array          |      |              |
 55  |                  |           |                   |        |          |      |              |
 56  |                  |           |                   |        |          |      |              |
 57  |                  |           |                   |        |          |      |              |
-58  |                  |           |                   |        |          |      |              |
-59  |                  |           |                   |        |          |      |              |
+58  |   [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)               |   Easy        |[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode58.cpp)    |    4ms    |String          |      |              |
+59  | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)                 |  Medium         |   [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode59.cpp)                |   4ms     |     Array     |      |              |
 60  |                  |           |                   |        |          |      |              |
 61  |                  |           |                   |        |          |      |              |
 62  |                  |           |                   |        |          |      |              |
