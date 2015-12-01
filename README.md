@@ -25,14 +25,14 @@ Catalog
 18  |                  |           |                   |        |          |      |              |
 19  |                  |           |                   |        |          |      |              |
 20  |                  |           |                   |        |          |      |              |
-21  |                  |           |                   |        |          |      |              |
+21  |  [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy          |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode21.cpp)                 |   12ms     |  Linked List        |      |              |
 22  |                  |           |                   |        |          |      |              |
 23  |                  |           |                   |        |          |      |              |
-24  |                  |           |                   |        |          |      |              |
+24  | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)     | Medium          |   [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode24.cpp)                |    4ms    |    Linked List        |      |              |
 25  |                  |           |                   |        |          |      |              |
-26  |                  |           |                   |        |          |      |              |
-27  |                  |           |                   |        |          |      |              |
-28  |                  |           |                   |        |          |      |              |
+26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)           | Easy                  | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode26.cpp)       |     32ms     |  Array, Two pointer    |              |
+27  |   [Remove Element](https://leetcode.com/problems/remove-element/)| Easy          |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode27.cpp)                 |  4ms      | Array, Two pointer         |      |              |
+28  |     [Implement strStr()](https://leetcode.com/problems/implement-strstr/)             |  Easy         | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode28.cpp)                  |   4ms     |    String, Two pointer      |      |              |
 29  |                  |           |                   |        |          |      |              |
 30  |                  |           |                   |        |          |      |              |
 31  |                  |           |                   |        |          |      |              |
