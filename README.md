@@ -23,8 +23,8 @@ Catalog
 16  | [3Sum Closest](https://leetcode.com/problems/3sum-closest/)|Medium |[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode16.cpp)| 20ms       |   String,Two ponter          |      |              |
 17  |                  |           |                   |        |          |      |              |
 18  |                  |           |                   |        |          |      |              |
-19  |                  |           |                   |        |          |      |              |
-20  |                  |           |                   |        |          |      |              |
+19  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |   Easy        |[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode19.cpp)                   |  4ms      |   Linked List, Two pointer       |      |              |
+20  |  [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |   Easy        | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode20.cpp) [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode20v2.cpp)                  |  4ms, 0ms      |   Stack, String       |      |              |
 21  |  [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy          |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode21.cpp)                 |   12ms     |  Linked List        |      |              |
 22  |                  |           |                   |        |          |      |              |
 23  |                  |           |                   |        |          |      |              |
