@@ -18,8 +18,8 @@ Catalog
 11  |                  |           |                   |        |          |      |              |
 12  |                  |           |                   |        |          |      |              |
 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                 | Easy          |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode13.cpp)                 | 40ms | Math, String         |      |              |
-14  |                  |           |                   |        |          |      |              |
-15  |                  |           |                   |        |          |      |              |
+14  |[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode14.cpp)                   |4ms|String          |      |              |
+15  | [3Sum](https://leetcode.com/problems/3sum/)                 |Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode15.cpp) | 56ms|String,Two ponter          |      |              |
 16  |                  |           |                   |        |          |      |              |
 17  |                  |           |                   |        |          |      |              |
 18  |                  |           |                   |        |          |      |              |
