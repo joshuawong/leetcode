@@ -39,12 +39,12 @@ Catalog
 32  |                  |           |                   |        |          |      |              |
 33  |                  |           |                   |        |          |      |              |
 34  |                  |           |                   |        |          |      |              |
-35  |                  |           |                   |        |          |      |              |
+35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Medium |[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode35.cpp)        |   8ms     |  Array, Binary Search  |      |              |
 36  |                  |           |                   |        |          |      |              |
 37  |                  |           |                   |        |          |      |              |
-38  |                  |           |                   |        |          |      |              |
-39  |                  |           |                   |        |          |      |              |
-40  |                  |           |                   |        |          |      |              |
+38  | [Count and Say](https://leetcode.com/problems/count-and-say/)|  Easy     |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode38.cpp)      |   8ms     |String          |      |              |
+39  | [Combination Sum]()  |      Medium     |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode39.cpp)                 |    144ms    |Array, Backtracking          |      |              |
+40  |  [Combination Sum II]()          Medium       | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode40.cpp)          |      424ms             |  Array, Backtracking         |          |      |              |
 41  |                  |           |                   |        |          |      |              |
 42  |                  |           |                   |        |          |      |              |
 43  |                  |           |                   |        |          |      |              |
