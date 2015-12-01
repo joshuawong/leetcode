@@ -106,7 +106,7 @@ Catalog
 99  |                  |           |                   |        |          |      |              |
 100 |  [Same Tree](https://leetcode.com/problems/same-tree/)                |Easy | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode100.cpp) | 0ms |DFS,Tree          |      |              |
 101 |  [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                | Easy | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode101.cpp)                  |  4ms      |DFS,Tree           |      |              |
-102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                 |           | Easy|   [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode102.cpp)               |  8ms      | BFS,Tree             |      |              |
+102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                 |            Easy|   [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode102.cpp)               |  8ms      | BFS,Tree             |      |              |
 103 |                  |           |                   |        |          |      |              |
 104 |                  |           |                   |        |          |      |              |
 105 |                  |           |                   |        |          |      |              |
