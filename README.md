@@ -67,19 +67,19 @@ Catalog
 60  |                  |           |                   |        |          |      |              |
 61  |                  |           |                   |        |          |      |              |
 62  |                  |           |                   |        |          |      |              |
-63  |                  |           |                   |        |          |      |              |
+
 64  |                  |           |                   |        |          |      |              |
 65  |                  |           |                   |        |          |      |              |
 66  |                  |           |                   |        |          |      |              |
 67  |                  |           |                   |        |          |      |              |
 68  |                  |           |                   |        |          |      |              |
 69  |                  |           |                   |        |          |      |              |
-70  |                  |           |                   |        |          |      |              |
+70  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy          |   [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode70.cpp)                | 0ms       |  DP        |      |              |
 71  |                  |           |                   |        |          |      |              |
 72  |                  |           |                   |        |          |      |              |
 73  |                  |           |                   |        |          |      |              |
-74  |                  |           |                   |        |          |      |              |
-75  |                  |           |                   |        |          |      |              |
+74  | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium          | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode75.cpp)  |  12ms      |  Array, Binary Search        |      |              |
+75  | [Sort Colors](https://leetcode.com/problems/sort-colors/)|   Medium        |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode75.cpp)                 |  4ms      | Array, Sort, Two pointer         |      |              |
 76  |                  |           |                   |        |          |      |              |
 77  |                  |           |                   |        |          |      |              |
 78  |                  |           |                   |        |          |      |              |
