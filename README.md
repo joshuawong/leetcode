@@ -6,11 +6,11 @@ Catalog
  #  | Problem          |Difficulty | Solution         |Time    | Tag          |Others
  ---|------------------|-----------|-------------------|--------|----------|------|--------------|---------
  1|[two-sum](https://leetcode.com/problems/two-sum/)|Medium|[Java](https://github.com/joshuawong/leetcode/blob/master/leetcode1.cpp)|57ms|Array,Hash Table|              |
- 2  |[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| Easy | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode6.cpp)| 20ms       |  String        |      |              |
+2  |                  |           |                   |        |          |      |              |
  3  |                  |           |                   |        |          |      |              |
  4  |                  |           |                   |        |          |      |              |
  5  |                  |           |                   |        |          |      |              |
- 6  |                  |           |                   |        |          |      |              |
+ 6  |[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| Easy | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode6.cpp)| 20ms       |  String        |      |              |
  7  |                  |           |                   |        |          |      |              |
  8  |                  |           |                   |        |          |      |              |
  9  |                  |           |                   |        |          |      |              |
