@@ -108,7 +108,7 @@ Catalog
 101 |  [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                | Easy | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode101.cpp)                  |  4ms      |DFS,Tree           |      |              |
 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                 |            Easy|   [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode102.cpp)               |  8ms      | BFS,Tree             |      |              |
 103 |                  |           |                   |        |          |      |              |
-104 |  [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                | Easy         |                   | 8ms       | DFS,Tree           |      |              |
+104 |  [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                | Easy         |      [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode104.cpp) | 8ms       | DFS,Tree           |      |              |
 105 |                  |           |                   |        |          |      |              |
 106 |                  |           |                   |        |          |      |              |
 107 |                  |           |                   |        |          |      |              |
