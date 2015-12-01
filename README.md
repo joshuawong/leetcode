@@ -13,7 +13,7 @@ Catalog
  6  |[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| Easy | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode6.cpp)| 20ms       |  String        |      |              |
  7  |[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| Easy | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode7.cpp) [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode7v2.cpp) |8ms|Math|      |              |
  8  |                  |           |                   |        |          |      |              |
- 9  |                  |           |                   |        |          |      |              |
+ 9  |[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|Easy           | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode9.cpp)                  | 72ms       |Math          |      |              |
 10  |                  |           |                   |        |          |      |              |
 11  |                  |           |                   |        |          |      |              |
 12  |                  |           |                   |        |          |      |              |
