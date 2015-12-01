@@ -125,11 +125,11 @@ Catalog
 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| Easy          | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode118.cpp) [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode118v2.cpp)                  | 4ms,0ms       |  Array        |      |              |
 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| Easy  |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode119.cpp)                 |   0ms     |Array          |      |              |
 120 |                  |           |                   |        |          |      |              |
-121 |                  |           |                   |        |          |      |              |
-122 |                  |           |                   |        |          |      |              |
+121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Medium          | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode122.cpp)                  |    8ms    |   Array,DP       |      |              |
+122 | [Best Time to Buy and Sell Stock II]() |  https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/         |  Medium                 | https://github.com/joshuawong/leetcode/blob/master/leetcode123.cpp       |  8ms        | Array, Greedy     |              |
 123 |                  |           |                   |        |          |      |              |
 124 |                  |           |                   |        |          |      |              |
-125 |                  |           |                   |        |          |      |              |
+125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| Easy          |  https://github.com/joshuawong/leetcode/blob/master/leetcode125.cpp                 | 16ms       |   Two pointer, String       |      |              |
 126 |                  |           |                   |        |          |      |              |
 127 |                  |           |                   |        |          |      |              |
 128 |                  |           |                   |        |          |      |              |
