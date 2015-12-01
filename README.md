@@ -17,7 +17,7 @@ Catalog
 10  |                  |           |                   |        |          |      |              |
 11  |                  |           |                   |        |          |      |              |
 12  |                  |           |                   |        |          |      |              |
-13  |                  |           |                   |        |          |      |              |
+13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                 | Easy          |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode13.cpp)                 | 40ms | Math, String         |      |              |
 14  |                  |           |                   |        |          |      |              |
 15  |                  |           |                   |        |          |      |              |
 16  |                  |           |                   |        |          |      |              |
