@@ -82,17 +82,17 @@ Catalog
 75  | [Sort Colors](https://leetcode.com/problems/sort-colors/)|   Medium        |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode75.cpp)                 |  4ms      | Array, Sort, Two pointer         |      |              |
 76  |                  |           |                   |        |          |      |              |
 77  |                  |           |                   |        |          |      |              |
-78  |                  |           |                   |        |          |      |              |
+78  |[Subsets](https://leetcode.com/problems/subsets/)|  Medium         | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode78.cpp) [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode78v2.cpp)                  |  8ms,8ms      |  Array, Backtracting, Bit        |      |              |
 79  |                  |           |                   |        |          |      |              |
 80  |                  |           |                   |        |          |      |              |
 81  |                  |           |                   |        |          |      |              |
 82  |                  |           |                   |        |          |      |              |
-83  |                  |           |                   |        |          |      |              |
+83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy          |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode83.cpp)                 |    16ms    | Linked List         |      |              |
 84  |                  |           |                   |        |          |      |              |
 85  |                  |           |                   |        |          |      |              |
 86  |                  |           |                   |        |          |      |              |
 87  |                  |           |                   |        |          |      |              |
-88  |                  |           |                   |        |          |      |              |
+88  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) |Easy | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode88.cpp) [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode88v2.cpp)                  |  0ms,4ms      | Array, Two pointer         |      |              |
 89  |                  |           |                   |        |          |      |              |
 90  |                  |           |                   |        |          |      |              |
 91  |                  |           |                   |        |          |      |              |
