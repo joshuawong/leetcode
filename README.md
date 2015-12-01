@@ -5,7 +5,7 @@ Catalog
 --------
  #  | Problem          |Difficulty | Solution1         |Time    |Solution2 |Time  | Tag          |Others
  ---|------------------|-----------|-------------------|--------|----------|------|--------------|---------
- 1  |                  |           |                   |        |          |      |              |
+ 1  |(two-sum)https://leetcode.com/problems/two-sum/|           |                   |        |          |      |              |
  2  |                  |           |                   |        |          |      |              |
  3  |                  |           |                   |        |          |      |              |
  4  |                  |           |                   |        |          |      |              |
