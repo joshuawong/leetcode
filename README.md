@@ -152,7 +152,7 @@ Catalog
 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)                 |    Hard       |      [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode145.cpp)    [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode145v2.cpp)         |   0ms ,0ms    |   Stack, Tree              |      |              |
 146 |                  |           |                   |        |          |      |              |
 147 |  [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)      |        Medium   |    [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode147.cpp)               |  80ms      |Linked List, Sort          |      |              |
-148 |   [Sort List](https://leetcode.com/problems/sort-list/)  |           Medium|                   | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode148.cpp)       |   68ms       |   Linked List, Sort       |              |
+148 |   [Sort List](https://leetcode.com/problems/sort-list/)  |           Medium|                   [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode148.cpp)       |   68ms       |   Linked List, Sort       |              |
 149 |                  |           |                   |        |          |      |              |
 150 |                  |           |                   |        |          |      |              |
 151 |                  |           |                   |        |          |      |              |
