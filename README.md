@@ -173,10 +173,10 @@ Catalog
 166 |                  |           |                   |        |          |      |              |
 167 |                  |           |                   |        |          |      |              |
 168 |  [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)                |  Easy   | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode168.cpp)                  |    0ms    |  Math        |      |              |
-169 | [Majority Element](https://leetcode.com/problems/majority-element/)  |           | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode169.cpp)               [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode169v2.cpp) [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode169v3.cpp)   | 24ms,20ms,20ms       |   Divide&Conquer, Bit, Array       |      |              |
+169 | [Majority Element](https://leetcode.com/problems/majority-element/)  | Easy          | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode169.cpp)               [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode169v2.cpp) [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode169v3.cpp)   | 24ms,20ms,20ms       |   Divide&Conquer, Bit, Array       |      |              |
 170 |                  |           |                   |        |          |      |              |
-171 |                  |           |                   |        |          |      |              |
-172 |                  |           |                   |        |          |      |              |
+171 |        [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)          |   Easy        |[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode171.cpp)                   | 12ms       | Math         |      |              |
+172 |  [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)    |       Easy    | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode172.cpp)                  |     4ms   |   Math       |      |              |
 173 |                  |           |                   |        |          |      |              |
 174 |                  |           |                   |        |          |      |              |
 175 |                  |           |                   |        |          |      |              |
@@ -193,9 +193,9 @@ Catalog
 186 |                  |           |                   |        |          |      |              |
 187 |                  |           |                   |        |          |      |              |
 188 |                  |           |                   |        |          |      |              |
-189 |                  |           |                   |        |          |      |              |
-190 |                  |           |                   |        |          |      |              |
-191 |                  |           |                   |        |          |      |              |
+189 | [Rotate Array](https://leetcode.com/problems/rotate-array/)      |       Easy    | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode189.cpp) [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode189v2.cpp)                  | 24ms,24ms       |Array          |      |              |
+190 |  [Reverse Bits](https://leetcode.com/problems/reverse-bits/)  |    Easy       |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode190.cpp)                 |  8ms      |Bit          |      |              |
+191 |  [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)     |        Easy   |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode191.cpp) [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode190v2.cpp)                 |   8ms     |Bit          |      |              |
 192 |                  |           |                   |        |          |      |              |
 193 |                  |           |                   |        |          |      |              |
 194 |                  |           |                   |        |          |      |              |
