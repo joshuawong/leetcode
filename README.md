@@ -145,14 +145,14 @@ Catalog
 138 |                  |           |                   |        |          |      |              |
 139 |                  |           |                   |        |          |      |              |
 140 |                  |           |                   |        |          |      |              |
-141 |                  |           |                   |        |          |      |              |
+141 |  [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)   |   Medium        | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode141.cpp)                  |  12ms      |Two pointer, Linked List          |      |              |
 142 |                  |           |                   |        |          |      |              |
 143 |                  |           |                   |        |          |      |              |
-144 |                  |           |                   |        |          |      |              |
-145 |                  |           |                   |        |          |      |              |
+144 |   [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)    |    Medium       | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode144.cpp)                  |    0ms    | Stack, Tree         |      |              |
+145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)                 |    Hard       |      [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode145.cpp)    [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode145v2.cpp)         |   0ms ,0ms    |   Stack, Tree              |      |              |
 146 |                  |           |                   |        |          |      |              |
-147 |                  |           |                   |        |          |      |              |
-148 |                  |           |                   |        |          |      |              |
+147 |  [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)      |        Medium   |    [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode147.cpp)               |  80ms      |Linked List, Sort          |      |              |
+148 |   [Sort List](https://leetcode.com/problems/sort-list/)  |           Medium|                   | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode148.cpp)       |   68ms       |   Linked List, Sort       |              |
 149 |                  |           |                   |        |          |      |              |
 150 |                  |           |                   |        |          |      |              |
 151 |                  |           |                   |        |          |      |              |
