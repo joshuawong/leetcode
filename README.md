@@ -26,7 +26,7 @@ Catalog
 19  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |   Easy        |[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode19.cpp)                   |  4ms      |   Linked List, Two pointer       |      |              |
 20  |  [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |   Easy        | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode20.cpp) [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode20v2.cpp)                  |  4ms, 0ms      |   Stack, String       |      |              |
 21  |  [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy          |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode21.cpp)                 |   12ms     |  Linked List        |      |              |
-22  |                  |           |                   |        |          |      |              |
+22  |  [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)  | Medium  | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode22.cpp)    |  0ms      |   String, Backtracking       |      |              |
 23  |                  |           |                   |        |          |      |              |
 24  | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)     | Medium          |   [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode24.cpp)                |    4ms    |    Linked List        |      |              |
 25  |                  |           |                   |        |          |      |              |
@@ -57,7 +57,7 @@ Catalog
 50  |                  |           |                   |        |          |      |              |
 51  |                  |           |                   |        |          |      |              |
 52  |                  |           |                   |        |          |      |              |
-53  |                  |           |                   |        |          |      |              |
+53  |  [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)  | Medium          | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode53.cpp) [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode53v2.cpp)    | 12ms, 12ms      | Divide&Conquer, Array, DP|      |              |
 54  |  [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)  |   Medium        | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode54.cpp)                  |    0ms    |Array          |      |              |
 55  |                  |           |                   |        |          |      |              |
 56  |                  |           |                   |        |          |      |              |
@@ -209,4 +209,6 @@ Catalog
 204 |   [Count Primes](https://leetcode.com/problems/count-primes/)    |       Easy    | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode204.cpp) [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode204v2.cpp)                  |   392ms, 216ms     |   Hash Table, Math       |      |              |
 205 |  [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)    |           Easy|   [Python](https://github.com/joshuawong/leetcode/blob/master/leetcode205.py)                |   76ms     |Hash Table          |      |              |
 206 |    [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)   |      Easy     | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode206.cpp)                  |    8ms    |Linked List          |      |              |
-215 |                  |           |                   |        |          |      |              |
+215 |  [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)   | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode215.cpp)  |    Medium               |   8ms     |   Divide&Conquer, Heap       |      |              |
+217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode217.cpp)[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode217v2.cpp)|108ms, 36ms|Array, Hash Table||
+219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode219.cpp)[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode219v2.cpp)[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode219v3.cpp)|108ms, 32ms, 12ms|Array, Hash Table||
