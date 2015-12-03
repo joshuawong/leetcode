@@ -221,4 +221,15 @@ Catalog
 234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode234.cpp)|24ms|Linked List, Two pointer||
 235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode235.cpp)|40ms|Tree||
 237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode237.cpp)|16ms|Linked List||
-231|[]()||[C++]()||||
+240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode240.cpp)|260ms|Divide&Conquer, Binary Search||
+242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode242.cpp)[Python](https://github.com/joshuawong/leetcode/blob/master/leetcode242.py)|12ms ,152ms|Hash Table, Sort||
+258|[Add Digits](https://leetcode.com/problems/add-digits/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode258.cpp)|8ms|Math||
+260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode260.cpp)[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode260v2.cpp)|32ms,20ms|Bit||
+263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode263.cpp)|8ms|Math||
+268|[Missing Number](https://leetcode.com/problems/missing-number/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode268.cpp)[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode268v2.cpp)|36ms,76ms|Array, Math, Bit||
+278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode278.cpp)|0ms|Binary Search||
+283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode283.cpp)|103ms|Array, Two pointer||
+287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|Hard|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode287.cpp)|24ms|Array, Two pointer,Binary Search||
+290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode290.cpp)|0ms|Hash Table||
+292|[Nim Game](https://leetcode.com/problems/nim-game/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode292.cpp)[Python](https://github.com/joshuawong/leetcode/blob/master/leetcode292.py)|0ms, 48ms|||
+299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode299.cpp)|8ms|Hash Table||
