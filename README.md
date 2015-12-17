@@ -103,3 +103,4 @@ Catalog
 290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode290.cpp)|0ms|Hash Table||
 292|[Nim Game](https://leetcode.com/problems/nim-game/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode292.cpp)[Python](https://github.com/joshuawong/leetcode/blob/master/leetcode292.py)|0ms, 48ms|||
 299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode299.cpp)|8ms|Hash Table||
+303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode303.cpp)|608ms|DP||
