@@ -32,6 +32,7 @@ Catalog
 54  |  [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)  |   Medium        | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode54.cpp)                  |    0ms    |Array          |      |              |
 58  |   [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)               |   Easy        |[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode58.cpp)    |    4ms    |String          |      |              |
 59  | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)                 |  Medium         |   [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode59.cpp)                |   4ms     |     Array     |      |              |
+64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode64.cpp)|28ms|Array,DP||
 66  |   [Plus One](https://leetcode.com/problems/plus-one/)|  Easy   | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode66.cpp)       |  4ms        |Array,Math      |              |
 67  |  [Add Binary](https://leetcode.com/problems/add-binary/)                |   Easy        |    [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode67.cpp)               | 4ms       | Math, String         |      |              |
 70  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy          |   [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode70.cpp)                | 0ms       |  DP        |      |              |
