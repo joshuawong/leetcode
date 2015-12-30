@@ -7,6 +7,7 @@ Catalog
  ---|------------------|-----------|-------------------|--------|----------|------|--------------|---------
  1|[two-sum](https://leetcode.com/problems/two-sum/)|Medium|[Java](https://github.com/joshuawong/leetcode/blob/master/leetcode1.cpp)|57ms|Array,Hash Table|              |
  2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode2.cpp)|36ms|Linked List, Math||
+ 3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode3.cpp)|16ms|Hash Table,Two Pointers,String||
  4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|Hard|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode4.cpp)|44ms|Divied&Conquer, Array, Binay Search||
  6  |[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| Easy | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode6.cpp)| 20ms       |  String        |      |              |
  7  |[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| Easy | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode7.cpp) [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode7v2.cpp) |8ms|Math|      |              |
