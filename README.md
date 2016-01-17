@@ -25,10 +25,13 @@ Catalog
 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)           | Easy                  | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode26.cpp)       |     32ms     |  Array, Two pointer    |              |
 27  |   [Remove Element](https://leetcode.com/problems/remove-element/)| Easy          |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode27.cpp)                 |  4ms      | Array, Two pointer         |      |              |
 28  |     [Implement strStr()](https://leetcode.com/problems/implement-strstr/)             |  Easy         | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode28.cpp)                  |   4ms     |    String, Two pointer      |      |              |
+31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode31.cpp)|12ms|Array||
 35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Medium |[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode35.cpp)        |   8ms     |  Array, Binary Search  |      |              |
 38  | [Count and Say](https://leetcode.com/problems/count-and-say/)|  Easy     |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode38.cpp)      |   8ms     |String          |      |              |
 39  | [Combination Sum]()  |      Medium     |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode39.cpp)                 |    144ms    |Array, Backtracking          |      |              |
 40  |  [Combination Sum II]()      |    Medium       | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode40.cpp)          |      424ms             |  Array, Backtracking         |          |      |              |
+46|[Permutations](https://leetcode.com/problems/permutations/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode46.cpp)|16ms|Backtracking||
+47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode47.cpp)|32ms|Backtracking||
 48  |    [Rotate Image](https://leetcode.com/problems/rotate-image/)              |   Medium        |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode48.cpp)          |   4ms     |   Array       |      |              |
 53  |  [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)  | Medium          | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode53.cpp) [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode53v2.cpp)    | 12ms, 12ms      | Divide&Conquer, Array, DP|      |              |
 54  |  [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)  |   Medium        | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode54.cpp)                  |    0ms    |Array          |      |              |
@@ -121,3 +124,4 @@ Catalog
 299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode299.cpp)|8ms|Hash Table||
 303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode303.cpp)|608ms|DP||
 319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode319.cpp)|0ms|Math. Brainteaser|
+328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode328.cpp)|20ms|Linked List||
