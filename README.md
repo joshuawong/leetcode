@@ -9,8 +9,10 @@ Catalog
  2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode2.cpp)|36ms|Linked List, Math||
  3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode3.cpp)|16ms|Hash Table,Two Pointers,String||
  4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|Hard|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode4.cpp)|44ms|Divied&Conquer, Array, Binay Search||
+ 5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode5.cpp)|92ms|String||
  6  |[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| Easy | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode6.cpp)| 20ms       |  String        |      |              |
  7  |[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| Easy | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode7.cpp) [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode7v2.cpp) |8ms|Math|      |              |
+ 8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode8.cpp)|12ms|Math,String|
  9  |[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|Easy           | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode9.cpp)                  | 72ms       |Math          |      |              |
  11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode11.cpp)|28ms|Array, Two Pointers||
  12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode12.cpp)|32ms|Math,String||
