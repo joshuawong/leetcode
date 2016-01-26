@@ -31,12 +31,14 @@ Catalog
 28  |     [Implement strStr()](https://leetcode.com/problems/implement-strstr/)             |  Easy         | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode28.cpp)                  |   4ms     |    String, Two pointer      |      |              |
 29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode29.cpp)|12ms|Math, Binary Search||
 31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode31.cpp)|12ms|Array||
+32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|Hard|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode32.cpp)|12ms|DP, String|
 33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|Hard|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode33.cpp)|4ms|Array, Binary Search||
 35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Medium |[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode35.cpp)        |   8ms     |  Array, Binary Search  |      |              |
 38  | [Count and Say](https://leetcode.com/problems/count-and-say/)|  Easy     |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode38.cpp)      |   8ms     |String          |      |              |
 39  | [Combination Sum]()  |      Medium     |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode39.cpp)                 |    144ms    |Array, Backtracking          |      |              |
 40  |  [Combination Sum II]()      |    Medium       | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode40.cpp)          |      424ms             |  Array, Backtracking         |          |      |              |
 42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode17.cpp)|8ms|Array, Stack,Two Pointers||
+43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode43.cpp)  [Python](https://github.com/joshuawong/leetcode/blob/master/leetcode43.py)|8ms, 536ms|Math, String||
 46|[Permutations](https://leetcode.com/problems/permutations/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode46.cpp)|16ms|Backtracking||
 47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode47.cpp)|32ms|Backtracking||
 48  |    [Rotate Image](https://leetcode.com/problems/rotate-image/)              |   Medium        |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode48.cpp)          |   4ms     |   Array       |      |              |
