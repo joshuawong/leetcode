@@ -37,6 +37,7 @@ Catalog
 38  | [Count and Say](https://leetcode.com/problems/count-and-say/)|  Easy     |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode38.cpp)      |   8ms     |String          |      |              |
 39  | [Combination Sum]()  |      Medium     |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode39.cpp)                 |    144ms    |Array, Backtracking          |      |              |
 40  |  [Combination Sum II]()      |    Medium       | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode40.cpp)          |      424ms             |  Array, Backtracking         |          |      |              |
+41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|Hard|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode41.cpp)  [Python](https://github.com/joshuawong/leetcode/blob/master/leetcode41.py)|4ms, 40ms|Array|
 42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode17.cpp)|8ms|Array, Stack,Two Pointers||
 43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode43.cpp)  [Python](https://github.com/joshuawong/leetcode/blob/master/leetcode43.py)|8ms, 536ms|Math, String||
 46|[Permutations](https://leetcode.com/problems/permutations/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode46.cpp)|16ms|Backtracking||
@@ -63,6 +64,7 @@ Catalog
 91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode91.cpp)|4ms|DP,String||
 92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode92.cpp)|4ms|Linked List||
 94  | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|  Medium         |[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode94.cpp)                   |   0ms     |  Tree, Hash Table, Stack        |      |              |
+97|[Interleaving String](https://leetcode.com/problems/interleaving-string/)|Hard|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode97.cpp)|8ms|DP, String||
 100 |  [Same Tree](https://leetcode.com/problems/same-tree/)                |Easy | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode100.cpp) | 0ms |DFS,Tree          |      |              |
 101 |  [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                | Easy | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode101.cpp)                  |  4ms      |DFS,Tree           |      |              |
 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                 |            Easy|   [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode102.cpp)               |  8ms      | BFS,Tree             |      |              |
