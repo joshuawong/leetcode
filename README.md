@@ -113,8 +113,10 @@ Catalog
 217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode217.cpp)[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode217v2.cpp)|108ms, 36ms|Array, Hash Table||
 219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode219.cpp)[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode219v2.cpp)[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode219v3.cpp)|108ms, 32ms, 12ms|Array, Hash Table||
 223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode223.cpp)|32ms|Math||
+224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode224.cpp)|20ms|Stack,Math||
 225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode225.cpp)|0ms|Stack||
 226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode226.cpp)|0ms|Tree||
+227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode227.cpp)|24ms|String||
 228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode228.cpp)|0ms|Array||
 230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode230.cpp)|24ms|Tree, Binary Search||
 231|[Power of Two](https://leetcode.com/problems/power-of-two/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode231.cpp)|8ms|Math, Bit||
