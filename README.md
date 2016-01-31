@@ -53,6 +53,7 @@ Catalog
 67  |  [Add Binary](https://leetcode.com/problems/add-binary/)                |   Easy        |    [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode67.cpp)               | 4ms       | Math, String         |      |              |
 69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode69.cpp)|12ms|Math, Binary Search||
 70  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy          |   [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode70.cpp)                | 0ms       |  DP        |      |              |
+71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode71.cpp)|12ms|Stack,String||
 73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode73.cpp)|92ms|Array||
 74  | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium          | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode75.cpp)  |  12ms      |  Array, Binary Search        |      |              |
 75  | [Sort Colors](https://leetcode.com/problems/sort-colors/)|   Medium        |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode75.cpp)                 |  4ms      | Array, Sort, Two pointer         |      |              |
