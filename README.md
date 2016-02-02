@@ -47,6 +47,7 @@ Catalog
 54  |  [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)  |   Medium        | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode54.cpp)                  |    0ms    |Array          |      |              |
 58  |   [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)               |   Easy        |[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode58.cpp)    |    4ms    |String          |      |              |
 59  | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)                 |  Medium         |   [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode59.cpp)                |   4ms     |     Array     |      |              |
+61|[Rotate List](https://leetcode.com/problems/rotate-list/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode61.cpp)|12ms|Linked List, Two Pointers||
 62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode62.cpp)|0ms|Array,DP||
 64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode64.cpp)|28ms|Array,DP||
 66  |   [Plus One](https://leetcode.com/problems/plus-one/)|  Easy   | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode66.cpp)       |  4ms        |Array,Math      |              |
@@ -60,6 +61,7 @@ Catalog
 75  | [Sort Colors](https://leetcode.com/problems/sort-colors/)|   Medium        |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode75.cpp)                 |  4ms      | Array, Sort, Two pointer         |      |              |
 77|[Combinations](https://leetcode.com/problems/combinations/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode77.cpp)|8ms|BackTrack||
 78  |[Subsets](https://leetcode.com/problems/subsets/)|  Medium         | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode78.cpp) [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode78v2.cpp)                  |  8ms,8ms      |  Array, Backtracting, Bit        |      |              |
+79|[Word Search](https://leetcode.com/problems/word-search/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode79.cpp)|76ms|Array, BackTracking||
 80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode80.cpp)|16ms|Array,Two pointers||
 83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy          |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode83.cpp)                 |    16ms    | Linked List         |      |              |
 88  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) |Easy | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode88.cpp) [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode88v2.cpp)                  |  0ms,4ms      | Array, Two pointer         |      |              |
