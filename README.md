@@ -67,6 +67,8 @@ Catalog
 79|[Word Search](https://leetcode.com/problems/word-search/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode79.cpp)|76ms|Array, BackTracking||
 80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode80.cpp)|16ms|Array,Two pointers||
 83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy          |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode83.cpp)                 |    16ms    | Linked List         |      |              |
+84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|Hard|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode84.cpp)|24ms|Array, Stack||
+86|[Partition List](https://leetcode.com/problems/partition-list/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode86.cpp)|8ms|Linked List, Two Pointers||
 88  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) |Easy | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode88.cpp) [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode88v2.cpp)                  |  0ms,4ms      | Array, Two pointer         |      |              |
 91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode91.cpp)|4ms|DP,String||
 92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode92.cpp)|4ms|Linked List||
