@@ -73,6 +73,7 @@ Catalog
 90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode90.cpp)|8ms|Array, BackTracking||
 91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode91.cpp)|4ms|DP,String||
 92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode92.cpp)|4ms|Linked List||
+93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode93.cpp)|4ms|BackTracking, String||
 94  | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|  Medium         |[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode94.cpp)                   |   0ms     |  Tree, Hash Table, Stack        |      |              |
 97|[Interleaving String](https://leetcode.com/problems/interleaving-string/)|Hard|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode97.cpp)|8ms|DP, String||
 100 |  [Same Tree](https://leetcode.com/problems/same-tree/)                |Easy | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode100.cpp) | 0ms |DFS,Tree          |      |              |
@@ -94,6 +95,7 @@ Catalog
 134|[Gas Station](https://leetcode.com/problems/gas-station/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode134.cpp)|8ms|Greedy||
 136 |   [Single Number](https://leetcode.com/problems/single-number/)               |Medium           | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode136.cpp) [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode136v2.cpp)                  |  60ms,20ms      |Hash Table, Bit          |      |              |
 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) |Medium           | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode137.cpp)  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode137v2.cpp)                 |32ms,12ms        |   Bit       |      |              |
+139|[Word Break](https://leetcode.com/problems/word-break/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode139.cpp)|8ms|---||
 141 |  [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)   |   Medium        | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode141.cpp)                  |  12ms      |Two pointer, Linked List          |      |              |
 142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode142.cpp)|12ms|Linked List, Two pointers||
 144 |   [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)    |    Medium       | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode144.cpp)                  |    0ms    | Stack, Tree         |      |              |
