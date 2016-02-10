@@ -53,6 +53,7 @@ Catalog
 61|[Rotate List](https://leetcode.com/problems/rotate-list/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode61.cpp)|12ms|Linked List, Two Pointers||
 62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode62.cpp)|0ms|Array,DP||
 64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode64.cpp)|28ms|Array,DP||
+65|[Valid Number](https://leetcode.com/problems/valid-number/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode65.java)|52ms|String, Math||
 66  |   [Plus One](https://leetcode.com/problems/plus-one/)|  Easy   | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode66.cpp)       |  4ms        |Array,Math      |              |
 67  |  [Add Binary](https://leetcode.com/problems/add-binary/)                |   Easy        |    [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode67.cpp)               | 4ms       | Math, String         |      |              |
 69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode69.cpp)|12ms|Math, Binary Search||
