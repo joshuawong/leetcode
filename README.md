@@ -145,6 +145,7 @@ Catalog
 240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode240.cpp)|260ms|Divide&Conquer, Binary Search||
 241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode241.cpp)|4ms|Divide and Conquer||
 242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode242.cpp)[Python](https://github.com/joshuawong/leetcode/blob/master/leetcode242.py)|12ms ,152ms|Hash Table, Sort||
+257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode257.cpp)|4ms|DFS,Trss||
 258|[Add Digits](https://leetcode.com/problems/add-digits/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode258.cpp)|8ms|Math||
 260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode260.cpp)[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode260v2.cpp)|32ms,20ms|Bit||
 263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode263.cpp)|8ms|Math||
