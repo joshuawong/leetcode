@@ -41,6 +41,7 @@ Catalog
 41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|Hard|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode41.cpp)  [Python](https://github.com/joshuawong/leetcode/blob/master/leetcode41.py)|4ms, 40ms|Array|
 42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode17.cpp)|8ms|Array, Stack,Two Pointers||
 43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode43.cpp)  [Python](https://github.com/joshuawong/leetcode/blob/master/leetcode43.py)|8ms, 536ms|Math, String||
+44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode44.java)|5ms|DP, Backtracking, Greedy, String||
 46|[Permutations](https://leetcode.com/problems/permutations/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode46.cpp)|16ms|Backtracking||
 47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode47.cpp)|32ms|Backtracking||
 48  |    [Rotate Image](https://leetcode.com/problems/rotate-image/)              |   Medium        |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode48.cpp)          |   4ms     |   Array       |      |              |
