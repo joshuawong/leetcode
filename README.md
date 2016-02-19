@@ -157,6 +157,7 @@ Catalog
 263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode263.cpp)|8ms|Math||
 268|[Missing Number](https://leetcode.com/problems/missing-number/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode268.cpp)[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode268v2.cpp)|36ms,76ms|Array, Math, Bit||
 273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode273.cpp)|8ms|Math, String||
+274 |[H-Index](https://leetcode.com/problems/h-index/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode274.cpp),   [java](https://github.com/joshuawong/leetcode/blob/master/leetcode274.java)|4ms, 2ms|Hash Table, Sort||
 278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode278.cpp),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode278.java)|0ms, 18ms|Binary Search||
 283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode283.cpp)|103ms|Array, Two pointer||
 287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|Hard|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode287.cpp)|24ms|Array, Two pointer,Binary Search||
