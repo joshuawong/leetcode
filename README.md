@@ -143,6 +143,7 @@ Catalog
 226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode226.cpp)|0ms|Tree||
 227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode227.cpp)|24ms|String||
 228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode228.cpp),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode228.java)|0ms,1ms|Array||
+229 |[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode229.java)|3ms|Array||
 230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode230.cpp)|24ms|Tree, Binary Search||
 231|[Power of Two](https://leetcode.com/problems/power-of-two/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode231.cpp)|8ms|Math, Bit||
 232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode232.cpp)|0ms|Stack||
@@ -164,6 +165,7 @@ Catalog
 278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode278.cpp),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode278.java)|0ms, 18ms|Binary Search||
 283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode283.cpp)|103ms|Array, Two pointer||
 287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|Hard|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode287.cpp)|24ms|Array, Two pointer,Binary Search||
+289 |[Game of Life](https://leetcode.com/problems/game-of-life/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode289.java)|1ms|Array||
 290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode290.cpp)|0ms|Hash Table||
 292|[Nim Game](https://leetcode.com/problems/nim-game/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode292.cpp)[Python](https://github.com/joshuawong/leetcode/blob/master/leetcode292.py)|0ms, 48ms|||
 299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode299.cpp)|8ms|Hash Table||
