@@ -5,9 +5,9 @@ Catalog
 --------
  #  | Problem          |Difficulty | Solution         |Time    | Tag          |Others
  ---|------------------|-----------|-------------------|--------|----------|------|--------------|---------
- 1|[two-sum](https://leetcode.com/problems/two-sum/)|Medium|[Java](https://github.com/joshuawong/leetcode/blob/master/leetcode1.cpp)|57ms|Array,Hash Table|              |
+ 1|[two-sum](https://leetcode.com/problems/two-sum/)|Medium|[Java](https://github.com/joshuawong/leetcode/blob/master/leetcode1.cpp),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode1.java)|57ms,6ms|Array,Hash Table|              |
  2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode2.cpp)|36ms|Linked List, Math||
- 3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode3.cpp)|16ms|Hash Table,Two Pointers,String||
+ 3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode3.cpp),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode3.java)|16ms,24ms|Hash Table,Two Pointers,String||
  4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|Hard|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode4.cpp)|44ms|Divied&Conquer, Array, Binay Search||
  5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode5.cpp)|92ms|String||
  6  |[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| Easy | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode6.cpp),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode6.java)| 20ms  , 32ms     |  String        |      |              |
@@ -73,6 +73,7 @@ Catalog
 79|[Word Search](https://leetcode.com/problems/word-search/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode79.cpp)|76ms|Array, BackTracking||
 80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode80.cpp)|16ms|Array,Two pointers||
 81 |[ Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|Medium|[cpp](https://github.com/joshuawong/leetcode/blob/master/leetcode81.cpp)|11ms|Array, Binary Search||
+82 |[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|Medium|[cpp](https://github.com/joshuawong/leetcode/blob/master/leetcode82.cpp),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode82.java)|8ms,1ms|Linked List||
 83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy          |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode83.cpp)                 |    16ms    | Linked List         |      |              |
 84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|Hard|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode84.cpp)|24ms|Array, Stack||
 86|[Partition List](https://leetcode.com/problems/partition-list/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode86.cpp)|8ms|Linked List, Two Pointers||
@@ -167,10 +168,10 @@ Catalog
 283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode283.cpp)|103ms|Array, Two pointer||
 287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|Hard|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode287.cpp)|24ms|Array, Two pointer,Binary Search||
 289 |[Game of Life](https://leetcode.com/problems/game-of-life/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode289.java)|1ms|Array||
-290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode290.cpp)|0ms|Hash Table||
+290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode290.cpp),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode290.java)|0ms,3ms|Hash Table||
 292|[Nim Game](https://leetcode.com/problems/nim-game/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode292.cpp)[Python](https://github.com/joshuawong/leetcode/blob/master/leetcode292.py)|0ms, 48ms|||
 299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode299.cpp)|8ms|Hash Table||
-303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode303.cpp)|608ms|DP||
+303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode303.cpp),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode299.java)|608ms,3ms|DP||
 319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode319.cpp)|0ms|Math. Brainteaser|
 328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode328.cpp)|20ms|Linked List||
 334 |[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode334.java)|1ms|---||
