@@ -56,6 +56,7 @@ Catalog
 57|[Insert Interval](https://leetcode.com/problems/insert-interval/)|Hard|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode57.cpp)|584ms|Array, Sort||
 58  |   [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)               |   Easy        |[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode58.cpp),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode58.java)    |    4ms ,0ms   |String          |      |              |
 59  | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)                 |  Medium         |   [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode59.cpp)                |   4ms     |     Array     |      |              |
+60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)|Medium|[c++](https://github.com/joshuawong/leetcode/blob/master/leetcode60.cpp)|0ms|BackTracing,Math||
 61|[Rotate List](https://leetcode.com/problems/rotate-list/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode61.cpp)|12ms|Linked List, Two Pointers||
 62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode62.cpp)|0ms|Array,DP||
 64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode64.cpp)|28ms|Array,DP||
