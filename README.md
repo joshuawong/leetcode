@@ -134,6 +134,7 @@ Catalog
 190 |  [Reverse Bits](https://leetcode.com/problems/reverse-bits/)  |    Easy       |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode190.cpp)                 |  8ms      |Bit          |      |              |
 191 |  [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)     |        Easy   |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode191.cpp) [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode190v2.cpp)                 |   8ms     |Bit          |      |              |
 198|[House Robber](https://leetcode.com/problems/house-robber/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode198.cpp)|0ms|DP||
+199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode199.java),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode199v2.java)|Tree,DFS,BFS|2ms,2ms||
 202 |   [Happy Number](https://leetcode.com/problems/happy-number/)               |  Easy         |    [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode202.cpp)               | 4ms       |    Hash Table, Math      |      |              |
 203 |  [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)      |   Easy        |[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode203.cpp)   ,[java](https://github.com/joshuawong/leetcode/blob/master/leetcode203.java)                |     32ms ,2ms  |  Linked List        |      |              |
 204 |   [Count Primes](https://leetcode.com/problems/count-primes/)    |       Easy    | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode204.cpp) [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode204v2.cpp)                  |   392ms, 216ms     |   Hash Table, Math       |      |              |
@@ -154,6 +155,7 @@ Catalog
 230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode230.cpp)|24ms|Tree, Binary Search||
 231|[Power of Two](https://leetcode.com/problems/power-of-two/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode231.cpp)|8ms|Math, Bit||
 232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode232.cpp)|0ms|Stack||
+233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode233.java)|Math|0ms||
 234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode234.cpp)|24ms|Linked List, Two pointer||
 235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode235.cpp)|40ms|Tree||
 237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode237.cpp)|16ms|Linked List||
@@ -170,6 +172,7 @@ Catalog
 274 |[H-Index](https://leetcode.com/problems/h-index/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode274.cpp),   [java](https://github.com/joshuawong/leetcode/blob/master/leetcode274.java)|4ms, 2ms|Hash Table, Sort||
 275|[H-Index II](https://leetcode.com/problems/h-index-ii/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode275.java)|162ms|Binary Search||
 278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode278.cpp),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode278.java)|0ms, 18ms|Binary Search||
+279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode279.java)|DP, BFS,Math|69ms||
 283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode283.cpp)|103ms|Array, Two pointer||
 284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode284.java)|107ms|Design||
 287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|Hard|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode287.cpp)|24ms|Array, Two pointer,Binary Search||
