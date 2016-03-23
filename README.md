@@ -39,6 +39,7 @@ Catalog
 32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|Hard|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode32.cpp)|12ms|DP, String|
 33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|Hard|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode33.cpp)|4ms|Array, Binary Search||
 35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Medium |[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode35.cpp) [java](https://github.com/joshuawong/leetcode/blob/master/leetcode35.java)       |   8ms , 0ms    |  Array, Binary Search  |      |              |
+36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|Easy|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode36.java)|4ms|Hash Table||
 38  | [Count and Say](https://leetcode.com/problems/count-and-say/)|  Easy     |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode38.cpp),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode38.java)      |   8ms,2ms     |String          |      |              |
 39  | [Combination Sum]()  |      Medium     |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode39.cpp)                 |    144ms    |Array, Backtracking          |      |              |
 40  |  [Combination Sum II]()      |    Medium       | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode40.cpp)          |      424ms             |  Array, Backtracking         |          |      |              |
@@ -193,6 +194,7 @@ Catalog
 290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode290.cpp),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode290.java)|0ms,3ms|Hash Table||
 292|[Nim Game](https://leetcode.com/problems/nim-game/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode292.cpp)[Python](https://github.com/joshuawong/leetcode/blob/master/leetcode292.py)|0ms, 48ms|||
 299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode299.cpp)|8ms|Hash Table||
+300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode300.java)|36ms|DP, Binary Search||
 303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode303.cpp),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode299.java)|608ms,3ms|DP||
 315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode315.java)|52ms|Binary Search||
 319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode319.cpp)|0ms|Math. Brainteaser|
