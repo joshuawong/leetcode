@@ -154,6 +154,7 @@ Catalog
 209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode209.cpp)|4ms|Array,Two pointers,Binary Search|
 213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode213.cpp)|0ms|DP||
 215 |  [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)   |Medium| [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode215.cpp)|   8ms     |   Divide&Conquer, Heap       |      |              |
+216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode216.java)|1ms|Array, Backtracking||
 217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode217.cpp)[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode217v2.cpp)|108ms, 36ms|Array, Hash Table||
 219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode219.cpp)[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode219v2.cpp)[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode219v3.cpp)|108ms, 32ms, 12ms|Array, Hash Table||
 220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode220.java)|48ms|Binary Search Tree||
@@ -198,3 +199,4 @@ Catalog
 328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode328.cpp)|20ms|Linked List||
 334 |[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode334.java)|1ms|---||
 337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode337.java)|1ms|DFS, Tree||
+338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode338.java)|5ms|DP, Bit Manipulation||
