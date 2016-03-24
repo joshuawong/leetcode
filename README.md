@@ -47,6 +47,7 @@ Catalog
 42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode17.cpp)|8ms|Array, Stack,Two Pointers||
 43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode43.cpp)  [Python](https://github.com/joshuawong/leetcode/blob/master/leetcode43.py)|8ms, 536ms|Math, String||
 44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode44.java)|5ms|DP, Backtracking, Greedy, String||
+45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode45.java)|4ms|Array, Greedy||
 46|[Permutations](https://leetcode.com/problems/permutations/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode46.cpp)|16ms|Backtracking||
 47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode47.cpp)|32ms|Backtracking||
 48  |    [Rotate Image](https://leetcode.com/problems/rotate-image/)              |   Medium        |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode48.cpp)          |   4ms     |   Array       |      |              |
@@ -56,6 +57,7 @@ Catalog
 52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode52.java)|7ms|BackTracking||
 53  |  [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)  | Medium          | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode53.cpp) [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode53v2.cpp)    | 12ms, 12ms      | Divide&Conquer, Array, DP|      |              |
 54  |  [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)  |   Medium        | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode54.cpp)                  |    0ms    |Array          |      |              |
+55|[Jump Game](https://leetcode.com/problems/jump-game/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode55.java)|4ms|Array, Greedy||
 56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|Hard|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode56.cpp)|592ms|Array, Sort|
 57|[Insert Interval](https://leetcode.com/problems/insert-interval/)|Hard|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode57.cpp)|584ms|Array, Sort||
 58  |   [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)               |   Easy        |[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode58.cpp),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode58.java)    |    4ms ,0ms   |String          |      |              |
