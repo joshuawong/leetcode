@@ -119,6 +119,8 @@ Catalog
 128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|Hard|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode128.cpp)|12ms|Array,Union FInd||
 129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode129.java)|1ms|Tree, DFS||
 130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode130.java)|7ms|BFS, Union Find||
+131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode131.java)|6ms|Backtracking||
+132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode132.java)|20ms|DP||
 134|[Gas Station](https://leetcode.com/problems/gas-station/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode134.cpp)|8ms|Greedy||
 136 |   [Single Number](https://leetcode.com/problems/single-number/)               |Medium           | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode136.cpp) [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode136v2.cpp)                  |  60ms,20ms      |Hash Table, Bit          |      |              |
 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) |Medium           | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode137.cpp)  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode137v2.cpp)                 |32ms,12ms        |   Bit       |      |              |
