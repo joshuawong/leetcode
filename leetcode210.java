@@ -5,7 +5,11 @@ public class Solution {
         List<Integer>[] nextSet = new List[numCourses];
 
         for(int i = 0; i < numCourses; i++){
+<<<<<<< HEAD
         	nextSet[i] = new ArrayLsit<>();
+=======
+        	nextSet[i] = new ArrayList<>();
+>>>>>>> c05fb885d956522cebfc262181ea1369380b1c3b
         }
 
         for(int[] prerequisite : prerequisites){
@@ -36,4 +40,8 @@ public class Solution {
         }
         return res;
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> c05fb885d956522cebfc262181ea1369380b1c3b
