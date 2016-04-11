@@ -182,6 +182,7 @@ Catalog
 217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode217.cpp)[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode217v2.cpp)|108ms, 36ms|Array, Hash Table||
 219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode219.cpp)[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode219v2.cpp)[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode219v3.cpp)|108ms, 32ms, 12ms|Array, Hash Table||
 220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode220.java)|48ms|Binary Search Tree||
+222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode222.java)|114ms|Tree, Binary Search||
 223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode223.cpp)|32ms|Math||
 224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode224.cpp)|20ms|Stack,Math||
 225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode225.cpp),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode225.java)|0ms,95ms|Stack||
@@ -224,6 +225,7 @@ Catalog
 303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode303.cpp),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode299.java)|608ms,3ms|DP||
 310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode310.java)|79ms|Graph, BFS||
 315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode315.java)|52ms|Binary Search||
+316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode316.java)|37ms|Stack, Greedy||
 319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode319.cpp)|0ms|Math. Brainteaser||
 322|[Coin Change](https://leetcode.com/problems/coin-change/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode322.java)|30ms|DP||
 328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode328.cpp)|20ms|Linked List||
