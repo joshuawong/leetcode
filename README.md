@@ -176,6 +176,7 @@ Catalog
 207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode207.java)|34ms|DFS,BFS,Graph,Topological Sort||
 209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode209.cpp)|4ms|Array,Two pointers,Binary Search|
 210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode210.java)|9ms|DFS,BFS,Graph,Topological Sort||
+211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode211.java)|23ms|Backtracking, Trie, Design||
 213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode213.cpp)|0ms|DP||
 215 |  [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)   |Medium| [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode215.cpp)|   8ms     |   Divide&Conquer, Heap       |      |              |
 216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode216.java)|1ms|Array, Backtracking||
