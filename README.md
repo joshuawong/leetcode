@@ -158,6 +158,7 @@ Catalog
 171 |        [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)          |   Easy        |[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode171.cpp),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode171.java)                   | 12ms  ,3ms     | Math         |      |              |
 172 |  [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)    |       Easy    | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode172.cpp)                  |     4ms   |   Math       |      |              |
 173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode173.java)|6ms|Tree,Stack,Design||
+174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode174.java)|5ms|DP, Binary Search||
 179 |[Largest Number](https://leetcode.com/problems/largest-number/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode179v1.java),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode179v2.java)|Sort|121ms,130ms||
 187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode187.java)|51ms|Hash Table, Bits Manipulation||
 188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode188.java)|13ms|DP, Array||
@@ -200,6 +201,7 @@ Catalog
 236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode236.java)|13ms|Tree||
 237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode237.cpp)|16ms|Linked List||
 238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode238.cpp)|60ms|Array||
+239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode239.java)|25ms|Heap||
 240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode240.cpp)|260ms|Divide&Conquer, Binary Search||
 241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode241.cpp)|4ms|Divide and Conquer||
 242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode242.cpp)[Python](https://github.com/joshuawong/leetcode/blob/master/leetcode242.py)|12ms ,152ms|Hash Table, Sort||
