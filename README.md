@@ -230,9 +230,10 @@ Catalog
 295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode295.java)|43ms|Heap, Design||
 299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode299.cpp)|8ms|Hash Table||
 300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode300.java)|36ms|DP, Binary Search||
-306|[Additive Number](https://leetcode.com/problems/additive-number/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode306.java)|3ms|---||
+301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode301.java)|106ms|DFS, BFS||
 303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode303.cpp),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode299.java)|608ms,3ms|DP||
 304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode304.java)|9ms|DP||
+306|[Additive Number](https://leetcode.com/problems/additive-number/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode306.java)|3ms|---||
 310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode310.java)|79ms|Graph, BFS||
 313|[Super Ugly Number ](https://leetcode.com/problems/super-ugly-number/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode313.java)|31ms|Math, Heap||
 315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode315.java)|52ms|Binary Search||
@@ -241,10 +242,13 @@ Catalog
 322|[Coin Change](https://leetcode.com/problems/coin-change/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode322.java)|30ms|DP||
 324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode324.java)|6ms|Sort||
 328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode328.cpp)|20ms|Linked List||
+329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode329.java)|16ms|DFS, Topological Sort, Memoization||
 330|[Patching Array](https://leetcode.com/problems/patching-array/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode330.java)|1ms|Greedy||
 331|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode331.java),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode331v2.java)|10ms,25ms|Stack||
 332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode332.java)|14ms|DFS, Graph||
 334 |[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode334.java)|1ms|---||
+336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode336.java)|152ms|Hash Table, String, Trie||
 337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode337.java)|1ms|DFS, Tree||
 338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode338.java)|5ms|DP, Bit Manipulation||
 342|[Power of Four](https://leetcode.com/problems/power-of-four/)|Easy|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode342.java)|2ms|Bit Manipulation||
+344|[Reverse String](https://leetcode.com/problems/reverse-string/)|Easy|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode344.java)|2ms|---||
