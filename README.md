@@ -78,6 +78,7 @@ Catalog
 73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode73.cpp)|92ms|Array||
 74  | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium          | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode75.cpp)  |  12ms      |  Array, Binary Search        |      |              |
 75  | [Sort Colors](https://leetcode.com/problems/sort-colors/)|   Medium        |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode75.cpp)                 |  4ms      | Array, Sort, Two pointer         |      |              |
+76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode76.java)|15ms|Hash Table, Two pointers, String||
 77|[Combinations](https://leetcode.com/problems/combinations/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode77.cpp),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode77.java)|8ms,3ms|BackTrack||
 78  |[Subsets](https://leetcode.com/problems/subsets/)|  Medium         | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode78.cpp), [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode78v2.cpp) ,[java](https://github.com/joshuawong/leetcode/blob/master/leetcode78v2.cpp)                 |  8ms,8ms,2ms      |  Array, Backtracting, Bit        |      |              |
 79|[Word Search](https://leetcode.com/problems/word-search/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode79.cpp)|76ms|Array, BackTracking||
@@ -85,8 +86,10 @@ Catalog
 81 |[ Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|Medium|[cpp](https://github.com/joshuawong/leetcode/blob/master/leetcode81.cpp)|11ms|Array, Binary Search||
 82 |[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|Medium|[cpp](https://github.com/joshuawong/leetcode/blob/master/leetcode82.cpp),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode82.java)|8ms,1ms|Linked List||
 83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy          |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode83.cpp)                 |    16ms    | Linked List         |      |              |
-84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|Hard|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode84.cpp)|24ms|Array, Stack||
+84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|Hard|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode84.cpp),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode84.java)|24ms, 34ms|Array, Stack||
+85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode85.java)|32ms|DP, Array, Hash Table, Two pointers||
 86|[Partition List](https://leetcode.com/problems/partition-list/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode86.cpp)|8ms|Linked List, Two Pointers||
+87|[Scramble String](https://leetcode.com/problems/scramble-string/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode87.java)|9ms|DP, String||
 88  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) |Easy | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode88.cpp) [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode88v2.cpp)                  |  0ms,4ms      | Array, Two pointer         |      |              |
 89|[Gray Code](https://leetcode.com/problems/gray-code/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode89.java),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode89v2.java)|2ms,16ms|BackTracking||
 90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode90.cpp)|8ms|Array, BackTracking||
@@ -252,3 +255,4 @@ Catalog
 338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode338.java)|5ms|DP, Bit Manipulation||
 342|[Power of Four](https://leetcode.com/problems/power-of-four/)|Easy|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode342.java)|2ms|Bit Manipulation||
 344|[Reverse String](https://leetcode.com/problems/reverse-string/)|Easy|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode344.java)|2ms|---||
+345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|Easy|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode345.java)|17ms|Two pointers||
