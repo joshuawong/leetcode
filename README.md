@@ -147,6 +147,7 @@ Catalog
 143|[Reorder List](https://leetcode.com/problems/reorder-list/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode143.java)|3ms|Linked List||
 144 |   [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)    |    Medium       | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode144.cpp)                  |    0ms    | Stack, Tree         |      |              |
 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)                 |    Hard       |      [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode145.cpp)    [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode145v2.cpp)         |   0ms ,0ms    |   Stack, Tree              |      |              |
+146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode146.java)|29ms|Design||
 147 |  [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)      |        Medium   |    [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode147.cpp)               |  80ms      |Linked List, Sort          |      |              |
 148 |   [Sort List](https://leetcode.com/problems/sort-list/)  |           Medium|                   [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode148.cpp)       |   68ms       |   Linked List, Sort       |              |
 150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode150.cpp)|16ms|Stack||
@@ -185,6 +186,7 @@ Catalog
 209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode209.cpp)|4ms|Array,Two pointers,Binary Search|
 210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode210.java)|9ms|DFS,BFS,Graph,Topological Sort||
 211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode211.java)|23ms|Backtracking, Trie, Design||
+212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode212.java)|119ms|Trie, Backtracking||
 213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode213.cpp)|0ms|DP||
 215 |  [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)   |Medium| [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode215.cpp)|   8ms     |   Divide&Conquer, Heap       |      |              |
 216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode216.java)|1ms|Array, Backtracking||
@@ -245,6 +247,7 @@ Catalog
 315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode315.java)|52ms|Binary Search||
 316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode316.java)|37ms|Stack, Greedy||
 319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode319.cpp)|0ms|Math. Brainteaser||
+321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode321.java)|19ms|DP, Greedy||
 322|[Coin Change](https://leetcode.com/problems/coin-change/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode322.java)|30ms|DP||
 324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode324.java)|6ms|Sort||
 328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode328.cpp)|20ms|Linked List||
