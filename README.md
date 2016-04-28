@@ -150,6 +150,7 @@ Catalog
 146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode146.java)|29ms|Design||
 147 |  [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)      |        Medium   |    [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode147.cpp)               |  80ms      |Linked List, Sort          |      |              |
 148 |   [Sort List](https://leetcode.com/problems/sort-list/)  |           Medium|                   [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode148.cpp)       |   68ms       |   Linked List, Sort       |              |
+149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode149.java)|46ms|Hash Table, Math||
 150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode150.cpp)|16ms|Stack||
 151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode151.cpp),[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode151v2.cpp),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode151.java),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode151v2.cpp)|8ms,12ms,13ms,9ms|String||
 152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode152.cpp),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode153.java)|4ms, 1ms|Array,DP||
@@ -256,6 +257,7 @@ Catalog
 331|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode331.java),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode331v2.java)|10ms,25ms|Stack||
 332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode332.java)|14ms|DFS, Graph||
 334 |[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode334.java)|1ms|---||
+335|[Self Crossing](https://leetcode.com/problems/self-crossing/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode335.java)|0ms|Math||
 336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode336.java)|152ms|Hash Table, String, Trie||
 337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode337.java)|1ms|DFS, Tree||
 338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode338.java)|5ms|DP, Bit Manipulation||
