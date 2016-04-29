@@ -128,6 +128,7 @@ Catalog
 123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode123.java)|2ms|DP, Array||
 124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode124.java)|2ms|DFS, Tree||
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| Easy          |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode125.cpp) ,[java](https://github.com/joshuawong/leetcode/blob/master/leetcode125.java)  ,[java](https://github.com/joshuawong/leetcode/blob/master/leetcode125v2.java)              | 16ms,8ms  ,8ms     |   Two pointer, String       |      |              |
+126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode126.java)|163ms|Array, Backtracking, BFS, String||
 127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode127.cpp)|356ms|---||
 128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|Hard|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode128.cpp)|12ms|Array,Union FInd||
 129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode129.java)|1ms|Tree, DFS||
@@ -243,6 +244,7 @@ Catalog
 303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode303.cpp),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode299.java)|608ms,3ms|DP||
 304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode304.java)|9ms|DP||
 306|[Additive Number](https://leetcode.com/problems/additive-number/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode306.java)|3ms|---||
+307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode307.java)|15ms|Binary Indexed Tree, Segment Tree||
 310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode310.java)|79ms|Graph, BFS||
 313|[Super Ugly Number ](https://leetcode.com/problems/super-ugly-number/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode313.java)|31ms|Math, Heap||
 315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode315.java)|52ms|Binary Search||
@@ -262,5 +264,6 @@ Catalog
 337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode337.java)|1ms|DFS, Tree||
 338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode338.java)|5ms|DP, Bit Manipulation||
 342|[Power of Four](https://leetcode.com/problems/power-of-four/)|Easy|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode342.java)|2ms|Bit Manipulation||
+343|[Integer Break](https://leetcode.com/problems/integer-break/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode343.java),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode343v2.java)|3ms, 0ms|DP, Math||
 344|[Reverse String](https://leetcode.com/problems/reverse-string/)|Easy|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode344.java)|2ms|---||
 345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|Easy|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode345.java)|17ms|Two pointers||
