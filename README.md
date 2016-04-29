@@ -263,6 +263,7 @@ Catalog
 336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode336.java)|152ms|Hash Table, String, Trie||
 337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode337.java)|1ms|DFS, Tree||
 338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode338.java)|5ms|DP, Bit Manipulation||
+341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode341.java)|9ms|Stack, Design||
 342|[Power of Four](https://leetcode.com/problems/power-of-four/)|Easy|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode342.java)|2ms|Bit Manipulation||
 343|[Integer Break](https://leetcode.com/problems/integer-break/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode343.java),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode343v2.java)|3ms, 0ms|DP, Math||
 344|[Reverse String](https://leetcode.com/problems/reverse-string/)|Easy|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode344.java)|2ms|---||
