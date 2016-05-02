@@ -232,7 +232,6 @@ Catalog
 260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode260.cpp)[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode260v2.cpp)|32ms,20ms|Bit||
 263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode263.cpp)|8ms|Math||
 264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode264.java),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode264v2.java)|11ms. 9ms|DP, Heap, Math||
-
 266|[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)|Easy|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode266.java),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode266v2.java)|3ms,1ms|Hash Table||
 268|[Missing Number](https://leetcode.com/problems/missing-number/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode268.cpp)[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode268v2.cpp)|36ms,76ms|Array, Math, Bit||
 270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)|Easy|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode270.java)|0ms|Tree, Binary Search||
