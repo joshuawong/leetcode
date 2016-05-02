@@ -227,6 +227,7 @@ Catalog
 246|[Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/)|Easy|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode246.java)|1ms|Hash Table, Math||
 247|[Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode247.java),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode247v2.java)|100ms, 6ms|Math,Recursion||
 249|[Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)|Easy|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode249.java)|11ms|Hash Table, String|
+251|[Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode251.java)|5ms|Design||
 252|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|Easy|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode252.java)|15ms|Sort||
 256|[Paint House](https://leetcode.com/problems/paint-house/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode256.java)|1ms|DP||
 257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode257.cpp)   [java](https://github.com/joshuawong/leetcode/blob/master/leetcode257.java)|4ms,3ms|DFS,Trss||
@@ -246,6 +247,7 @@ Catalog
 278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode278.cpp),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode278.java)|0ms, 18ms|Binary Search||
 279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode279.java)|DP, BFS,Math|69ms||
 280|[Wiggle Sort](https://leetcode.com/problems/wiggle-sort/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode280.java)|2ms|Array, Sort||
+281|[Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode281.java)|4ms|Design||
 282|[Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode282.java)|275ms|Divide and Conquer||
 283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode283.cpp)|103ms|Array, Two pointer||
 284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode284.java)|107ms|Design||
