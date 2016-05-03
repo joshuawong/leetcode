@@ -233,6 +233,7 @@ Catalog
 257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode257.cpp)   [java](https://github.com/joshuawong/leetcode/blob/master/leetcode257.java)|4ms,3ms|DFS,Trss||
 258|[Add Digits](https://leetcode.com/problems/add-digits/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode258.cpp)|8ms|Math||
 260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode260.cpp)[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode260v2.cpp)|32ms,20ms|Bit||
+261|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode261.java)|3ms|DFS, BFS, Graph, Union Find||
 263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode263.cpp)|8ms|Math||
 264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode264.java),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode264v2.java)|11ms. 9ms|DP, Heap, Math||
 265|[Paint House II](https://leetcode.com/problems/paint-house-ii/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode265.java)|7ms|DP||
@@ -278,6 +279,7 @@ Catalog
 320|[Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode320.java)|100ms|Backtracking, Bit Manipulation||
 321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode321.java)|19ms|DP, Greedy||
 322|[Coin Change](https://leetcode.com/problems/coin-change/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode322.java)|30ms|DP||
+323|[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode323.java)|2ms|DFS, BFS, Graph, Union Find||
 324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode324.java)|6ms|Sort||
 325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)|Easy|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode325.java)|38ms|Hash Table||
 328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode328.cpp)|20ms|Linked List||
