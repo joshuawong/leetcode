@@ -232,6 +232,7 @@ Catalog
 256|[Paint House](https://leetcode.com/problems/paint-house/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode256.java)|1ms|DP||
 257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode257.cpp)   [java](https://github.com/joshuawong/leetcode/blob/master/leetcode257.java)|4ms,3ms|DFS,Trss||
 258|[Add Digits](https://leetcode.com/problems/add-digits/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode258.cpp)|8ms|Math||
+259|[3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode259.java)|5ms|Array, Two Pointers||
 260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode260.cpp)[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode260v2.cpp)|32ms,20ms|Bit||
 261|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode261.java)|3ms|DFS, BFS, Graph, Union Find||
 263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode263.cpp)|8ms|Math||
