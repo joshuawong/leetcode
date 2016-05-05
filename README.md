@@ -157,6 +157,7 @@ Catalog
 152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode152.cpp),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode153.java)|4ms, 1ms|Array,DP||
 154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|Hard|[cpp](https://github.com/joshuawong/leetcode/blob/master/leetcode154.cpp),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode154.java)|12ms,1ms|Array, Binary Search||
 155 |  [Min Stack](https://leetcode.com/problems/min-stack/)  |     Easy      | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode155.cpp)                  | 28ms       |  Stack        |      |              |
+156|[Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode156.java)|1ms|Tree||
 157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/)|Easy|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode157.java)|2ms|String||
 160 |  [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)  |  Easy         |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode160.cpp)                 | 52ms       |   Linked List       |      |              |
 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Medium          | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode162.cpp) ,  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode162v2.cpp),  [java](https://github.com/joshuawong/leetcode/blob/master/leetcode162.java)              |  8ms, 8ms, 0ms     |Array, Binary Search          |      |              |
@@ -253,6 +254,7 @@ Catalog
 282|[Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode282.java)|275ms|Divide and Conquer||
 283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode283.cpp)|103ms|Array, Two pointer||
 284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode284.java)|107ms|Design||
+286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode286.java)|8ms|BFS||
 287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|Hard|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode287.cpp)|24ms|Array, Two pointers, Binary Search||
 288|[Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/)|Easy|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode288.java)|51ms|Hash Table, Design||
 289 |[Game of Life](https://leetcode.com/problems/game-of-life/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode289.java)|1ms|Array||
@@ -266,6 +268,7 @@ Catalog
 299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode299.cpp)|8ms|Hash Table||
 300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode300.java)|36ms|DP, Binary Search||
 301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode301.java)|106ms|DFS, BFS||
+302|[Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode302.java),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode302v2.java)|5ms, 1ms|Binary Search||
 303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode303.cpp),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode299.java)|608ms,3ms|DP||
 304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode304.java)|9ms|DP||
 306|[Additive Number](https://leetcode.com/problems/additive-number/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode306.java)|3ms|---||
