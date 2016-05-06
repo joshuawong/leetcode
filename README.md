@@ -266,6 +266,7 @@ Catalog
 295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode295.java)|43ms|Heap, Design||
 296|[Best Meeting Point](https://leetcode.com/problems/best-meeting-point/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode296.java)|21ms|Math, Sort||
 297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode297.java)|24ms|Design, Tree||
+298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode298.java)|2ms|Tree||
 299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|Easy|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode299.cpp)|8ms|Hash Table||
 300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode300.java)|36ms|DP, Binary Search||
 301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode301.java)|106ms|DFS, BFS||
