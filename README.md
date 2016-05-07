@@ -228,6 +228,7 @@ Catalog
 246|[Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/)|Easy|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode246.java)|1ms|Hash Table, Math||
 247|[Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode247.java),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode247v2.java)|100ms, 6ms|Math,Recursion||
 249|[Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)|Easy|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode249.java)|11ms|Hash Table, String|
+250|[Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode250.java)|1ms|Tree||
 251|[Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode251.java)|5ms|Design||
 252|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|Easy|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode252.java)|15ms|Sort||
 255|[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode255.java)|37ms|Stack, Tree||
