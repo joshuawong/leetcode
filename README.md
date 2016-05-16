@@ -161,6 +161,7 @@ Catalog
 157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/)|Easy|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode157.java)|2ms|String||
 159|[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode159.java)|20ms|Hash Table, String, Two pointer|
 160 |  [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)  |  Easy         |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode160.cpp)                 | 52ms       |   Linked List       |      |              |
+161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode161.java)|2ms|String||
 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Medium          | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode162.cpp) ,  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode162v2.cpp),  [java](https://github.com/joshuawong/leetcode/blob/master/leetcode162.java)              |  8ms, 8ms, 0ms     |Array, Binary Search          |      |              |
 163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode163.java)|9ms|Array||
 164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode164.java),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode164v2.java)|5ms,7ms|Sort||
@@ -175,6 +176,7 @@ Catalog
 173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode173.java)|6ms|Tree,Stack,Design||
 174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode174.java)|5ms|DP, Binary Search||
 179 |[Largest Number](https://leetcode.com/problems/largest-number/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode179v1.java),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode179v2.java)|Sort|121ms,130ms||
+186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode186.java)|3ms|String||
 187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode187.java)|51ms|Hash Table, Bits Manipulation||
 188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode188.java)|13ms|DP, Array||
 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/)      |       Easy    | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode189.cpp), [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode189v2.cpp) ,[java](https://github.com/joshuawong/leetcode/blob/master/leetcode189.java)                 | 24ms,24ms,1ms       |Array          |      |              |
@@ -229,6 +231,7 @@ Catalog
 245|[Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode245.java)|2ms|Array||
 246|[Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/)|Easy|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode246.java)|1ms|Hash Table, Math||
 247|[Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode247.java),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode247v2.java)|100ms, 6ms|Math,Recursion||
+248|[Strobogrammatic Number III](https://leetcode.com/problems/strobogrammatic-number-iii/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode248.java)|62ms|Math, Resursion||
 249|[Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)|Easy|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode249.java)|11ms|Hash Table, String|
 250|[Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode250.java)|1ms|Tree||
 251|[Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode251.java)|5ms|Design||
@@ -317,3 +320,4 @@ Catalog
 344|[Reverse String](https://leetcode.com/problems/reverse-string/)|Easy|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode344.java)|2ms|---||
 345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|Easy|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode345.java)|17ms|Two pointers||
 346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)|Easy|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode346.java)|162ms|Design, Queue||
+347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode347.java),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode347v2.java)|123ms, 52ms|HashMap, Heap||
