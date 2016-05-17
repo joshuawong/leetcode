@@ -249,8 +249,10 @@ Catalog
 264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode264.java),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode264v2.java)|11ms. 9ms|DP, Heap, Math||
 265|[Paint House II](https://leetcode.com/problems/paint-house-ii/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode265.java)|7ms|DP||
 266|[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)|Easy|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode266.java),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode266v2.java)|3ms,1ms|Hash Table||
+267|[Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode267.java)|7ms|Backtracking||
 268|[Missing Number](https://leetcode.com/problems/missing-number/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode268.cpp)[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode268v2.cpp)|36ms,76ms|Array, Math, Bit||
 270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)|Easy|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode270.java)|0ms|Tree, Binary Search||
+271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode271.java)|15ms|String||
 272|[Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode272.java)|5ms|Tree, Stack||
 273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode273.cpp)|8ms|Math, String||
 274 |[H-Index](https://leetcode.com/problems/h-index/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode274.cpp),   [java](https://github.com/joshuawong/leetcode/blob/master/leetcode274.java)|4ms, 2ms|Hash Table, Sort||
