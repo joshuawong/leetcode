@@ -71,6 +71,7 @@ Catalog
 65|[Valid Number](https://leetcode.com/problems/valid-number/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode65.java),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode65v2.java)|52ms,5ms|String, Math||
 66  |   [Plus One](https://leetcode.com/problems/plus-one/)|  Easy   | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode66.cpp) ,[java](https://github.com/joshuawong/leetcode/blob/master/leetcode66.java)      |  4ms   ,0ms     |Array,Math      |              |
 67  |  [Add Binary](https://leetcode.com/problems/add-binary/)                |   Easy        |    [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode67.cpp) ,[java](https://github.com/joshuawong/leetcode/blob/master/leetcode67.java)              | 4ms ,4ms      | Math, String         |      |              |
+68|[Text Justification](https://leetcode.com/problems/text-justification/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode68.java)|1ms|String||
 69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode69.cpp),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode69v1.java),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode69v2.java)|12ms,4ms,3ms|Math, Binary Search||
 70  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy          |   [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode70.cpp)                | 0ms       |  DP        |      |              |
 71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode71.cpp)|12ms|Stack,String||
@@ -159,6 +160,7 @@ Catalog
 155 |  [Min Stack](https://leetcode.com/problems/min-stack/)  |     Easy      | [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode155.cpp)                  | 28ms       |  Stack        |      |              |
 156|[Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode156.java)|1ms|Tree||
 157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/)|Easy|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode157.java)|2ms|String||
+158|[Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode158.java)|3ms|String||
 159|[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode159.java)|20ms|Hash Table, String, Two pointer|
 160 |  [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)  |  Easy         |  [C++](https://github.com/joshuawong/leetcode/blob/master/leetcode160.cpp)                 | 52ms       |   Linked List       |      |              |
 161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode161.java)|2ms|String||
@@ -251,6 +253,7 @@ Catalog
 266|[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)|Easy|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode266.java),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode266v2.java)|3ms,1ms|Hash Table||
 267|[Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode267.java)|7ms|Backtracking||
 268|[Missing Number](https://leetcode.com/problems/missing-number/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode268.cpp)[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode268v2.cpp)|36ms,76ms|Array, Math, Bit||
+269|[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode269.java)|12ms|Graph, Topological Sort||
 270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)|Easy|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode270.java)|0ms|Tree, Binary Search||
 271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode271.java)|15ms|String||
 272|[Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode272.java)|5ms|Tree, Stack||
@@ -296,6 +299,7 @@ Catalog
 314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode314.java)|6ms|Hash Table||
 315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode315.java)|52ms|Binary Search||
 316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode316.java)|37ms|Stack, Greedy||
+317|[Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode317.java)|75ms|BFS||
 319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|Medium|[C++](https://github.com/joshuawong/leetcode/blob/master/leetcode319.cpp)|0ms|Math. Brainteaser||
 320|[Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode320.java)|100ms|Backtracking, Bit Manipulation||
 321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/)|Hard|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode321.java)|19ms|DP, Greedy||
@@ -323,3 +327,5 @@ Catalog
 345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|Easy|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode345.java)|17ms|Two pointers||
 346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)|Easy|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode346.java)|162ms|Design, Queue||
 347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode347.java),[java](https://github.com/joshuawong/leetcode/blob/master/leetcode347v2.java)|123ms, 52ms|HashMap, Heap||
+348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)|Medium|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode348.java)|136ms|Design||
+349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|Easy|[java](https://github.com/joshuawong/leetcode/blob/master/leetcode349.java)|6ms|Binary Search, Hash Table, Two Pointers, Sort||
