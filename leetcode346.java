@@ -1,13 +1,13 @@
 public class MovingAverage {
-    private int sum;
-    private int size;
+    private double sum;
     private List<Integer> list;
+    private int size;
 
     /** Initialize your data structure here. */
     public MovingAverage(int size) {
-        this.sum = 0;
+        this.sum = 0.0;
         this.size = size;
-        this.list = new LinkedList<>();
+        this.list = new ArrayList<>();
     }
 
     public double next(int val) {
@@ -15,8 +15,8 @@ public class MovingAverage {
             sum += val;
         }
         else{
-            int top = list.remove(0);
-            sum += val - top;
+            int tmp = list.remove(0);
+            sum += val - tmp;
         }
         list.add(val);
         return sum / list.size();

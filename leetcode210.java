@@ -1,47 +1,38 @@
 public class Solution {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
-        int[] res = new int[numCourses];
-        int[] cnt = new int[numCourses];
-        List<Integer>[] nextSet = new List[numCourses];
+        if(numCourses == 0)
+            return null;
+        Map<Integer, ArrayList<Integer>> map = new HashMap<>();
+        int[] indegree = new int[numCourses];
+        int[] order = new int[numCourses];
+        int index = 0;
 
         for(int i = 0; i < numCourses; i++){
-<<<<<<< HEAD
-        	nextSet[i] = new ArrayLsit<>();
-=======
-        	nextSet[i] = new ArrayList<>();
->>>>>>> c05fb885d956522cebfc262181ea1369380b1c3b
+            map.put(i, new ArrayList<Integer>());
         }
 
-        for(int[] prerequisite : prerequisites){
-        	cnt[prerequisite[0]]++;
-        	nextSet[prerequisite[1]].add(prerequisite[0]);
+        for(int i = 0; i < prerequisites.length; i++){
+            map.get(prerequisites[i][1]).add(prerequisites[i][0]);
+            indegree[prerequisites[i][0]]++;
         }
 
-        Queue<Integer> leaves = new LinkedList<Integer>();
+        Queue<Integer> q = new LinkedList<>();
         for(int i = 0; i < numCourses; i++){
-        	if(cnt[i] == 0){
-        		leaves.add(i);
-        	}
+            if(indegree[i] == 0){
+                order[index++] = i;
+                q.offer(i);
+            }
         }
 
-        for(int i = 0; i < numCourses; i++){
-        	if(leaves.isEmpty()){
-        		return new int[0];
-        	}
-        	int n = leaves.remove();
-        	// int n = leaves.poll();
-        	res[i] = n;
-        	for(int next : nextSet[n]){
-        		cnt[next]--;
-        		if(cnt[next] == 0){
-        			leaves.add(next);
-        		}
-        	}
+        while(!q.isEmpty()){
+            int cur = q.poll();
+            for(int i : map.get(cur)){
+                if(--indegree[i] == 0){
+                    q.offer(i);
+                    order[index++] = i;
+                }
+            }
         }
-        return res;
+        return (index == numCourses) ? order : new int[0];
     }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> c05fb885d956522cebfc262181ea1369380b1c3b
